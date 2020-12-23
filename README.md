@@ -3,7 +3,7 @@
 </p>
 
 
-# nestjs-starter-kit
+# NestJS-starter-kit
 Starter kit for NestJs projects.
 
 
