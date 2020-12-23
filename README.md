@@ -2,72 +2,64 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+# nestjs-starter-kit
+Starter kit for NestJs projects.
 
-## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## Key Features(in progress)
 
-## Installation
+The starter will have helper services for following,
 
-```bash
-$ yarn install
-```
+- [ ] Logging
+- [ ] Error handling
+- [ ] Authentication
+- [ ] HTTP calls wrapper service
+- [ ] multiple unsubscription
+- [ ] CI/CD
+- [ ] Pre commit hooks configurable
+- [ ] Support for multiple languages
+- [ ] Async local and session storage services
 
-## Running the app
 
-```bash
-# development
-$ yarn start
+## Technical Details
 
-# watch mode
-$ yarn start:dev
+Package | Version
+------- | -------------
+NestJS | 7.6.4
+Typescript | 3.8.3
+RxJS | 6.5.4
 
-# production mode
-$ yarn start:prod
-```
 
-## Test
+## Contributing Guide
 
-```bash
-# unit tests
-$ yarn test
+Its a project by the community and for the community. To start contributing please go to out [contributing guidelines](./CONTRIBUTING.md)
 
-# e2e tests
-$ yarn test:e2e
+## Core Team Members
 
-# test coverage
-$ yarn test:cov
-```
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/yashwanth-yenugu">
+      <img src="https://avatars0.githubusercontent.com/u/25984440?s=96&v=4" width="100px;" alt=""/>
+      <br /><sub><b>YASHWANTH</b></sub></a>
+    </td>
+     <td align="center"><a href="https://github.com/singhrajkr">
+      <img src="https://avatars1.githubusercontent.com/u/9405134?s=400&u=20920812bcbc74c595330532b130b26c42378c99&v=4" width="100px;" alt=""/>
+      <br /><sub><b>RAJ</b></sub></a>
+    </td>
+    <td align="center"><a href="https://github.com/pushpak-git">
+      <img src="https://avatars0.githubusercontent.com/u/31220830?s=460&u=0390f9ff73dd1485779766694f1c6623be9fe0c2&v=4" width="100px;" alt=""/>
+      <br /><sub><b>PUSHPAK</b></sub></a>
+    </td>
+    <td align="center"><a href="https://github.com/nehasingh30">
+      <img src="https://avatars3.githubusercontent.com/u/52376500?s=400&v=4" width="100px;" alt=""/>
+      <br /><sub><b>NEHA</b></sub></a>
+    </td>
+  </tr>
+</table>
 
-## Support
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## Stay in touch
+## Created by
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+![abjayon](https://github.com/Abjayon-Consultancy-Pvt-Ltd/oss-readme-documentation-guide/blob/master/assets/abjayon1.jpg)
